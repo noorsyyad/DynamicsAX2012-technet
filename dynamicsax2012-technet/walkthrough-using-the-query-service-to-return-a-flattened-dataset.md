@@ -59,7 +59,7 @@ In order to call the system services, you must first create a project in Visual 
 
 10. Click **Go**. In the **Services** tree, you should see the AxMetadataService.
 
-11. Type QueryServiceReference in the **Namespace** field and then click **OK**.
+11. Type MetadataServiceReference in the **Namespace** field and then click **OK**.
 
 ## Call the Services and Retrieve the Data
 
